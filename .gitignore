@@ -1,8 +1,12 @@
+.vs/
 build/
 /tags
 /bazel-*
-
 bin/
 bin-int/
-*.filter
-*.vcxproj.filter
+
+# Files
+*.sln
+*.vcxproj.*
+*.vcxproj
+imgui.ini
